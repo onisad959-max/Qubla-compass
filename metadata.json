@@ -1,0 +1,6 @@
+{
+  "name": "কিবলা কম্পাস",
+  "description": "একটি চমৎকার, প্রতিক্রিয়াশীল কিবলা পথনির্দেশক এবং কম্পাস অ্যাপ যা সরাসরি সেন্সর ইনপুট এবং ঐচ্ছিক ম্যানুয়াল সিমুলেশন সমর্থন করে।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
